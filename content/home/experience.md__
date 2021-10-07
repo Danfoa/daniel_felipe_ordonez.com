@@ -10,6 +10,7 @@ headless: true
 weight: 40
 
 title: Experience
+cms_exclude: true
 subtitle:
 
 # Date format for experience
@@ -31,11 +32,13 @@ experience:
     date_end: ''
     description: |2-
         Responsibilities include:
-        
+
         * Analysing
         * Modelling
         * Deploying
-        
+
+        {{< youtube w7Ft2ymGmfc >}}
+
   - title: Professor of Semiconductor Physics
     company: University X
     company_url: ''
@@ -48,3 +51,4 @@ experience:
 design:
   columns: '2'
 ---
+  <!-- {{< youtube w7Ft2ymGmfc >}} -->

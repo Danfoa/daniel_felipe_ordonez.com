@@ -7,7 +7,7 @@
 
 theme: minimal
 day_night: true
-font: ''
+font: 'Minimal'
 font_size: L
 
 # SEO
@@ -20,50 +20,50 @@ twitter: ''
 
 # Contact (edit or remove options as required)
 
-email: test@example.org
-phone: 888 888 88 88
+email: daniel.ordonez@upc.edu
+phone: +34 602 639 662
 address:
-  street: 450 Serra Mall
-  city: Stanford
-  region: CA
-  postcode: '94305'
-  country: United States
-  country_code: US
-coordinates:
-  latitude: '37.4275'
-  longitude: '-122.1697'
-directions: Enter Building 1 and take the stairs to Office 200 on Floor 2
-office_hours:
-  - 'Monday 10:00 to 13:00'
-  - 'Wednesday 09:00 to 10:00'
-appointment_url: 'https://calendly.com'
-contact_links:
-  - icon: twitter
-    icon_pack: fab
-    name: DM Me
-    link: 'https://twitter.com/Twitter'
-  - icon: skype
-    icon_pack: fab
-    name: Skype Me
-    link: 'skype:echo123?call'
-  - icon: keybase
-    icon_pack: fab
-    name: Chat on Keybase
-    link: 'https://keybase.io/'
-  - icon: comments
-    icon_pack: fas
-    name: Discuss on Forum
-    link: 'https://discourse.gohugo.io'
+  street: Parc Tecnològic de Barcelona. C/ Llorens i Artigas 4-6
+  city: Barcelona
+#  region: Catalunya
+  postcode: '08028'
+  country: Spain
+  country_code: ES
+#coordinates:
+#  latitude: '37.4275'
+#  longitude: '-122.1697'
+directions: Perception and Manipulation Lab (IRI)
+#office_hours:
+#  - 'Monday 10:00 to 13:00'
+#  - 'Wednesday 09:00 to 10:00'
+#appointment_url: 'https://calendly.com'
+#contact_links:
+#  - icon: twitter
+#    icon_pack: fab
+#    name: DM Me
+#    link: 'https://twitter.com/Twitter'
+#  - icon: skype
+#    icon_pack: fab
+#    name: Skype Me
+#    link: 'skype:echo123?call'
+#  - icon: keybase
+#    icon_pack: fab
+#    name: Chat on Keybase
+#    link: 'https://keybase.io/'
+#  - icon: comments
+#    icon_pack: fas
+#    name: Discuss on Forum
+#    link: 'https://discourse.gohugo.io'
 
 # Site header
 
 main_menu:
   enable: true
   align: l
-  show_logo: true
+  show_logo: false
   show_language: false
   show_day_night: true
-  show_search: true
+  show_search: false
   highlight_active_link: true
 
 # Localization
@@ -77,7 +77,8 @@ address_format: en-us
 highlight: true
 highlight_languages:
   - r
-math: false
+  - python
+math: true
 diagram: false
 privacy_pack: false
 edit_page:
@@ -89,12 +90,12 @@ edit_page:
     post: false
     book: false
 show_related:
-  book: true
+  book: false
   page: false
-  post: true
+  post: false
   project: true
   publication: true
-  event: true
+  event: false
 reading_time: true
 section_pager: false
 docs_section_pager: true
@@ -146,7 +147,7 @@ map:
   zoom: 15
 marketing:
   google_analytics: ''
-  google_tag_manager: ''
+  google_tag_manager: 'G-8Z8RCR992Y'
   google_site_verification: ''
   baidu_site_verification: ''
   baidu_tongji: ''
