@@ -9,7 +9,7 @@ headless: true
 # Order that this section appears on the page.
 weight: 65
 
-title: Projects
+title: Public Projects
 subtitle: ''
 
 content:
@@ -27,10 +27,12 @@ content:
   filter_button:
   - name: All
     tag: '*'
-  - name: Open-Source
-    tag: Open Source
+#  - name: Open-Source
+#    tag: Open Source
   - name: Robotics
     tag: Robotics
+  - name: Machine Learning
+    tag: Machine Learning
 
 
 design:

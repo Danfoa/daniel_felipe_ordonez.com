@@ -68,8 +68,8 @@ highlight_name: true
 ---
 I am an assistant researcher at the [Institute of Robotics and Industrial Informatics (IRI-CSIC)](https://www.iri.upc.edu/) under the supervision of [Dr. Francesc Moreno](https://www.iri.upc.edu/people/fmoreno/) and [Dr. Mario Martin](https://www.cs.upc.edu/~mmartin/). At IRI, I study the synthesis of realistic and natural dynamical motions of animated and robotic systems through reinforcement learning without MoCap references. I am deeply passionate about legged locomotion, optimal control, reinforcement learning, biomechanics, and most applications of machine learning aimed at closing the performance gap between nature and robotics systems.
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=danfoa&hide=jupyter%20notebook&layout=compact)](https://github.com/Danfoa)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=danfoa&hide=jupyter%20notebook&layout=compact&count_private=true)](https://github.com/Danfoa)
 
 <!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=danfoa&show_icons=true&count_private=true&hide=contribs&hide_border=true) -->
 
-<!-- {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/resume.pdf" "newtab" >}}resumé{{< /staticref >}}. -->
+<!-- {{<   icon name="download" pack="fas" >}} Download my {{< staticref "uploads/resume.pdf" "newtab" >}}resumé{{< /staticref >}}. -->

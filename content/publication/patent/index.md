@@ -45,6 +45,12 @@ featured: true
 # - name: Custom Link
 #   url: http://example.org
 
+links:
+- icon: conversation
+  icon_pack: ai
+  name: contact info
+  url: mailto:mailto:coulon@invite-research.com?subject=Autonomous Drum and Inliner Handling patent process information [Daniel Ordonez]
+
 url_pdf: ''
 url_code: ''
 url_dataset: ''
