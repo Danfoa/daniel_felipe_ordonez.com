@@ -80,8 +80,8 @@ experience:
     company_url: 'https://busescool.com/'
     company_logo: busescool
     location: Bogota - Colombia
-    date_start: '2016-03-01'
-    date_end: '2016-10-30'
+    date_start: '2016-10-01'
+    date_end: '2017-09-30'
     description: Developed front and back-end of administrative tools that allowed the control and monitoring of Busescool’s realtime database and services
 
   - title: Engineering faculty tutor
