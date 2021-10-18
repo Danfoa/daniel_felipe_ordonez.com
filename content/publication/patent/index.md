@@ -33,7 +33,7 @@ publication_short: EPO
 abstract:
 
 # Summary. An optional shortened abstract.
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
+summary: Pending patent application to the European Patent Office with expected resolution in 2022.
 
 tags: [Robotics]
 
