@@ -48,7 +48,7 @@ featured: true
 links:
 - icon: conversation
   icon_pack: ai
-  name: contact info
+  name: Contact Info
   url: mailto:mailto:coulon@invite-research.com?subject=Autonomous Drum and Inliner Handling patent process information [Daniel Ordonez]
 
 url_pdf: ''
@@ -58,7 +58,7 @@ url_poster: ''
 url_project: ''
 url_slides: ''
 url_source: ''
-url_video: ''
+url_video: 'https://youtu.be/Tadba3dq1ns'
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.#

@@ -14,8 +14,8 @@ authors:
 author_notes:
 -
 -
-- "Equal supervision"
-- "Equal supervision"
+-
+-
 
 date: "2020-09-15T00:00:00Z"
 doi: ""
@@ -47,6 +47,15 @@ featured: true
 # links:
 # - name: Custom Link
 #   url: http://example.org
+links:
+- icon:
+  icon_pack: ai
+  name: arXiv
+  url: https://arxiv.org/abs/2110.14998
+- icon:
+  icon_pack: ai
+  name: Videos
+  url: https://youtube.com/playlist?list=PL3ldAwZyOMZHl6Fa28hYOtuGjo8V7Wj6t
 
 url_pdf: ''
 url_code: ''
@@ -87,10 +96,8 @@ Click the *Cite* button above to demo the feature to enable visitors to import p
 {{% callout note %}}
 Create your slides in Markdown - click the *Slides* button to check out the example.
 {{% /callout %}} -->
-- Preprint pending for open-access
 
 - Code soon to be released
-
 
 {{< youtube qFSFVzTadtE >}}
 <!--

@@ -14,12 +14,14 @@ organizations:
   url: https://www.iri.upc.edu/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include optimal control, reinforcement learning, legged locomotion, bio-inspired robots and machine learning.
+# My research interests are machine learning and optimal control specially applied to legged locomotion, dexterous manipulation, reinforcement learning, and most applications aimed to close the performance gap between nature and robotics systems.
+bio: My research interests are machine learning and optimal control specially applied to legged locomotion, dexterous manipulation, reinforcement learning, and most applications aimed to close the performance gap between nature and robotics systems.
 # Interests to show in About widget
 interests:
-- Mobile and legged robotics
-- Optimal control
+- Legged Locomotion
+- Optimal Control
 - Reinforcement Learning
+- Model Predictive Control
 - Dexterous manipulation
 
 # Education to show in About widget
@@ -66,7 +68,7 @@ email: "daniel.ordonez@upc.edu"
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 ---
-I am an assistant researcher at the [Institute of Robotics and Industrial Informatics (IRI-CSIC)](https://www.iri.upc.edu/) under the supervision of [Dr. Francesc Moreno](https://www.iri.upc.edu/people/fmoreno/) and [Dr. Mario Martin](https://www.cs.upc.edu/~mmartin/). At IRI, I study the synthesis of realistic and natural dynamical motions of animated and robotic systems through reinforcement learning without MoCap references. I am deeply passionate about legged locomotion, optimal control, reinforcement learning, biomechanics, and most applications of machine learning aimed at closing the performance gap between nature and robotics systems.
+I am an assistant researcher at the [Institute of Robotics and Industrial Informatics (IRI-CSIC)](https://www.iri.upc.edu/) under the supervision of [Dr. Francesc Moreno](https://www.iri.upc.edu/people/fmoreno/) and [Dr. Mario Martin](https://www.cs.upc.edu/~mmartin/). At IRI, I study the synthesis of realistic and natural locomotion of animated and robotic systems through reinforcement learning. My research interests are machine learning and optimal control specially applied to legged locomotion, dexterous manipulation, reinforcement learning, biomimicry, and most applications aimed to close the performance gap between animals and robotics systems.
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=danfoa&hide=jupyter%20notebook&layout=compact&count_private=true)](https://github.com/Danfoa)
 

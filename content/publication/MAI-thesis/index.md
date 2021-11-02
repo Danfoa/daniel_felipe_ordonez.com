@@ -12,8 +12,9 @@ authors:
 
 # Author notes (optional)
 #author_notes:
-#- "Equal contribution"
-#- "Equal contribution"
+#-
+#- "Equal supervision"
+#- "Equal supervision"
 
 date: "2020-04-28T00:00:00Z"
 doi: ""
