@@ -50,4 +50,4 @@ This project aimed to provide a comprehensive introduction to INVITE employees t
 
 5. Configuration and sharing of the CSDA10F [URDF and Moveit Config files](https://github.com/ros-industrial/motoman_experimental/pull/43), along with the [Grippers, and sensors URDF and collision meshes](https://github.com/ros-industrial/robotiq/pull/138)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=danfoa&repo=invite-robotics)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=danfoa&repo=invite-robotics)](https://github.com/Danfoa/invite-robotics)

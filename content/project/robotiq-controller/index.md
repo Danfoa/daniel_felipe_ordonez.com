@@ -46,4 +46,4 @@ For further details see the [repository](https://github.com/Danfoa/robotiq_2fing
 
   [![gripper operation](https://user-images.githubusercontent.com/8356912/52121064-a0ca5600-261e-11e9-8ad1-6b2855f11909.gif)](https://github.com/Danfoa/robotiq_2finger_grippers)
 
-  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=danfoa&repo=robotiq_2finger_grippers)](https://github.com/anuraghazra/github-readme-stats)
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=danfoa&repo=robotiq_2finger_grippers)](https://github.com/Danfoa/robotiq_2finger_grippers)
