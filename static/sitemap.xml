@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset
+      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+<!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
+
+
+<url>
+  <loc>https://daniel-ordonez-apraez.netlify.app/</loc>
+  <lastmod>2021-11-28T13:14:06+00:00</lastmod>
+  <priority>1.00</priority>
+</url>
+<url>
+  <loc>https://daniel-ordonez-apraez.netlify.app/uploads/resume.pdf</loc>
+  <lastmod>2021-11-28T13:14:06+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://daniel-ordonez-apraez.netlify.app/publication/icra-paper/</loc>
+  <lastmod>2021-11-28T13:14:06+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://daniel-ordonez-apraez.netlify.app/publication/mai-thesis/</loc>
+  <lastmod>2021-11-28T13:14:06+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://daniel-ordonez-apraez.netlify.app/publication/patent/</loc>
+  <lastmod>2021-11-28T13:14:06+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://daniel-ordonez-apraez.netlify.app/uploads/invite-junior-researcher-report.pdf</loc>
+  <lastmod>2021-11-28T13:14:06+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://daniel-ordonez-apraez.netlify.app/uploads/invite-internship-report.pdf</loc>
+  <lastmod>2021-11-28T13:14:06+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://daniel-ordonez-apraez.netlify.app/project/invite-ros-robotics/</loc>
+  <lastmod>2021-11-28T13:14:06+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://daniel-ordonez-apraez.netlify.app/project/robotiq-controller/</loc>
+  <lastmod>2021-11-28T13:14:06+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://daniel-ordonez-apraez.netlify.app/publication/</loc>
+  <lastmod>2021-11-28T13:14:06+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://daniel-ordonez-apraez.netlify.app/tag/robotics/</loc>
+  <lastmod>2021-11-28T13:14:06+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://daniel-ordonez-apraez.netlify.app/tag/spring-loaded-inverted-pendulum/</loc>
+  <lastmod>2021-11-28T13:14:06+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://daniel-ordonez-apraez.netlify.app/tag/reinforcement-learning/</loc>
+  <lastmod>2021-11-28T13:14:06+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://daniel-ordonez-apraez.netlify.app/project/slip-control/</loc>
+  <lastmod>2021-11-28T13:14:06+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://daniel-ordonez-apraez.netlify.app/project/force_torque_utils/</loc>
+  <lastmod>2021-11-28T13:14:06+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://daniel-ordonez-apraez.netlify.app/tag/open-source/</loc>
+  <lastmod>2021-11-28T13:14:06+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+
+
+</urlset>
