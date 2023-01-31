@@ -6,11 +6,11 @@ title: Daniel Felipe Ordoñez Apraez
 superuser: true
 
 # Role/position/tagline
-role: Assistant Researcher
+role: Ph.D. Student
 
 # Organizations/Affiliations to show in About widget
 organizations:
-- name: Institute of Robotics and Industrial Informatics (IRI-CSIC)
+- name: Dynamic Legged Systems (DLS) & Computational Statistics and Machine Learning (CSML)
   url: https://www.iri.upc.edu/
 
 # Short bio (displayed in user profile at end of posts)
@@ -22,11 +22,15 @@ interests:
 - Optimal Control
 - Reinforcement Learning
 - Model Predictive Control
-- Dexterous manipulation
+- Geometric Deep Learning
+- Group Theory
 
 # Education to show in About widget
 education:
   courses:
+  - course: Ph.D. Student in Bioengineering and Robotics
+    institution: Istituto Italiano di Tecnologia (IIT)
+    year: 2025
   - course: M.Sc. in Artificial Intelligence
     institution: Universitat Politècnica de Catalunya - Barcelona Tech
     year: 2021
@@ -41,7 +45,7 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: 'mailto:daniel.ordonez@upc.edu'
+  link: 'mailto:daniel.ordonez@iit.it'
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/OrdonezApraez
@@ -63,12 +67,14 @@ social:
 #   link: uploads/resume.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: "daniel.ordonez@upc.edu"
+email: "daniel.ordonez@iit.it"
 
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 ---
-I am an assistant researcher at the [Institute of Robotics and Industrial Informatics (IRI-CSIC)](https://www.iri.upc.edu/) under the supervision of [Dr. Francesc Moreno](https://www.iri.upc.edu/people/fmoreno/) and [Dr. Mario Martin](https://www.cs.upc.edu/~mmartin/). At IRI, I study the synthesis of realistic and natural locomotion of animated and robotic systems through reinforcement learning. My research interests are machine learning and optimal control specially applied to legged locomotion, dexterous manipulation, reinforcement learning, biomimicry, and most applications aimed to close the performance gap between animals and robotics systems.
+I am a Ph.D. student of the European Laboratory for Learning and Intelligent Systems ([ELLIS](https://ellis.eu/)) doctoral program under the supervision of Dr. Claudio Semini ([DLS](https://dls.iit.it/)), Dr. Massimiliano Pontil ([CSML](https://ucl-ellis.github.io/)), and Dr. Carlos Mastalli ([RoMi](https://www.romilab.org/)). I received a Masters's degree in Artificial Intelligence from the Universitat Politècnica de Catalunya (UPC-Barcelona Tech) and a Bachelors's degree in Mechatronics Engineering from the Universidad Nacional De Colombia (UNAL).
+
+I am interested in exploiting continuous and discrete symmetries of robotic systems in machine learning applications for robotics, specially to legged locomotion control.
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=danfoa&hide=jupyter%20notebook&layout=compact&count_private=true)](https://github.com/Danfoa)
 
