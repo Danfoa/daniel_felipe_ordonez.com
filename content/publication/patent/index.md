@@ -5,7 +5,7 @@ title: "[EP-Patent] Autonomous Drum and Inliner Handling"
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
 # and it will be replaced with their full name and linked to their profile.
 authors:
-- dordonez
+- Daniel Ordonez-Apraez
 - Carl-Helmut Coulon
 - INVITE GmbH
 
@@ -51,11 +51,11 @@ links:
   name: Contact Info
   url: mailto:mailto:coulon@invite-research.com?subject=Autonomous Drum and Inliner Handling patent process information [Daniel Ordonez]
 
-url_pdf: ''
+url_pdf: 'https://www.freepatentsonline.com/y2023/0009062.html'
 url_code: ''
 url_dataset: ''
 url_poster: ''
-url_project: ''
+url_project: 'https://worldwide.espacenet.com/patent/search/family/076695599/publication/US2023009062A1?q=22180194.7'
 url_slides: ''
 url_source: ''
 url_video: 'https://youtu.be/Tadba3dq1ns'
