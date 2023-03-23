@@ -14,7 +14,7 @@ authors:
 #- "Equal contribution"
 #- "Equal contribution"
 
-date: "2013-07-01T00:00:00Z"
+date: "2020-07-01T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
@@ -30,10 +30,10 @@ publication_types: ["8"]
 publication: European Patent Office
 publication_short: EPO
 
-abstract:
+abstract: System for automatically manipulating primary packaging in secondary packaging, comprising a robot having at least one robot arm with a clamping gripper installed at a tool centre point, wherein each tool centre point has a force-torque sensor, an image recording module for recording images of at least the upper segment of the primary packaging, comprising at least two stereo cameras for recording 3-D images, and one or more processors for providing a three-dimensional point cloud, controlling the image recording module and controlling the robot on the basis of the analysis of the three-dimensional point cloud and the measurements from the force-torque sensors.
 
 # Summary. An optional shortened abstract.
-summary: Pending patent application to the European Patent Office with expected resolution in 2022.
+summary: Published European and US patent [EP4112238A1/US2023009062A1](https://worldwide.espacenet.com/patent/search/family/076695599/publication/EP4112238A1?q=22180194.7).
 
 tags: [Robotics]
 
@@ -45,11 +45,11 @@ featured: true
 # - name: Custom Link
 #   url: http://example.org
 
-links:
-- icon: conversation
-  icon_pack: ai
-  name: Contact Info
-  url: mailto:mailto:coulon@invite-research.com?subject=Autonomous Drum and Inliner Handling patent process information [Daniel Ordonez]
+#<!-- links: -->
+#- icon: conversation
+#  icon_pack: ai
+#  name: Contact Info
+#  url: mailto:mailto:coulon@invite-research.com?subject=Autonomous Drum and Inliner Handling patent process information [Daniel Ordonez]
 
 url_pdf: 'https://www.freepatentsonline.com/y2023/0009062.html'
 url_code: ''
@@ -90,7 +90,7 @@ Click the *Cite* button above to demo the feature to enable visitors to import p
 {{% callout note %}}
 Create your slides in Markdown - click the *Slides* button to check out the example.
 {{% /callout %}} -->
-The work that I performed at INVITE under the supervision of [Dr. Carl-Helmut Coulon](https://www.invite-research.com/about-us/team), on robot manipulation of deformable materials with visual and force feedback, culminated in a patent application to the European Patent Office ([No. 21182082.4/US2023009062A1](https://worldwide.espacenet.com/patent/search/family/076695599/publication/US2023009062A1?q=22180194.7)).
+The work that I performed at INVITE under the supervision of [Dr. Carl-Helmut Coulon](https://www.invite-research.com/about-us/team), on robot manipulation of deformable materials with visual and force feedback, culminated in a patent application to the European Patent Office ([EP4112238A1/US2023009062A1](https://worldwide.espacenet.com/patent/search/family/076695599/publication/US2023009062A1?q=22180194.7)).
 
 The following is a promotional video of the state of the project near my departure from INVITE GmbH.
 {{< youtube Tadba3dq1ns >}}
