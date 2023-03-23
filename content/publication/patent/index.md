@@ -90,7 +90,7 @@ Click the *Cite* button above to demo the feature to enable visitors to import p
 {{% callout note %}}
 Create your slides in Markdown - click the *Slides* button to check out the example.
 {{% /callout %}} -->
-The work that I performed at INVITE under the supervision of [Dr. Carl-Helmut Coulon](https://www.invite-research.com/about-us/team), on robot manipulation of deformable materials with visual and force feedback, culminated in a patent application to the European Patent Office. **The expected resolution of the patent is 2022**. For details on the Patent process please contact Dr. Coulon at [coulon@invite-research.com](mailto:coulon@invite-research.com).
+The work that I performed at INVITE under the supervision of [Dr. Carl-Helmut Coulon](https://www.invite-research.com/about-us/team), on robot manipulation of deformable materials with visual and force feedback, culminated in a patent application to the European Patent Office ([No. 21182082.4/US2023009062A1](https://worldwide.espacenet.com/patent/search/family/076695599/publication/US2023009062A1?q=22180194.7)).
 
 The following is a promotional video of the state of the project near my departure from INVITE GmbH.
 {{< youtube Tadba3dq1ns >}}
