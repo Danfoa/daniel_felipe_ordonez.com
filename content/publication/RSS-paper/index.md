@@ -1,5 +1,5 @@
 ---
-title: "An Adaptable Approach to Learn Realistic Legged Locomotion without Examples"
+title: "On discrete symmetries of robotic systems: A data-driven and group-theoretic analysis"
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
