@@ -15,15 +15,15 @@ organizations:
 
 # Short bio (displayed in user profile at end of posts)
 # My research interests are machine learning and optimal control specially applied to legged locomotion, dexterous manipulation, reinforcement learning, and most applications aimed to close the performance gap between nature and robotics systems.
-bio: My research interests are machine learning and optimal control specially applied to legged locomotion, dexterous manipulation, reinforcement learning, and most applications aimed to close the performance gap between nature and robotics systems.
+bio: My research interests are symmetries/group theory in dynamical systems, control theory and machine learning specially fpr applications aimed to close the performance gap between nature and robotics systems in locomotion and manipulation.
 # Interests to show in About widget
 interests:
+- Group Theory 
+- Geometric Learning 
+- Geometric Control 
 - Legged Locomotion
 - Optimal Control
 - Reinforcement Learning
-- Model Predictive Control
-- Geometric Deep Learning
-- Group Theory
 
 # Education to show in About widget
 education:
@@ -74,7 +74,9 @@ highlight_name: true
 ---
 I am a Ph.D. student of the European Laboratory for Learning and Intelligent Systems ([ELLIS](https://ellis.eu/)) doctoral program under the supervision of Dr. Claudio Semini ([DLS](https://dls.iit.it/)), Dr. Massimiliano Pontil ([CSML](https://ucl-ellis.github.io/)), and Dr. Carlos Mastalli ([RoMi](https://www.romilab.org/)). I received a Masters's degree in Artificial Intelligence from the Universitat Politècnica de Catalunya (UPC-Barcelona Tech) and a Bachelors's degree in Mechatronics Engineering from the Universidad Nacional De Colombia (UNAL).
 
-I am interested in exploiting continuous and discrete symmetries of robotic systems in machine learning applications for robotics, specially to legged locomotion control.
+I am interested in exploiting continuous and discrete symmetries of robotic systems in machine learning applications for robotics, specially for legged locomotion control.
+
+**Do not hesitate to contact me if you are interested in doing your Bachelor's/Master's thesis on symmetry exploitation methods for robot learning/control, or computational design.**
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=danfoa&hide=jupyter%20notebook&layout=compact&count_private=true)](https://github.com/Danfoa)
 
