@@ -27,18 +27,17 @@ publishDate: "2023-01-01T00:00:00Z"
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
-publication_types: ["3"]
+publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
-publication: Preprint
-publication_short: Preprint
+publication: Robotics Science and Systems (RSS) 2023
+publication_short: RSS 2023
 
-abstract: In this work, we study discrete morphological symmetries of dynamical systems, a predominant feature in animal biology and robotic systems, expressed when the system's morphology has one or more planes of symmetry describing the duplication and balanced distribution of body parts. These morphological symmetries imply that the system's dynamics are symmetric (or approximately symmetric), which in turn imprints symmetries in optimal control policies and in all proprioceptive and exteroceptive measurements related to the evolution of the system's dynamics. For data-driven methods, symmetry represents an inductive bias that justifies data augmentation and the construction of symmetric function approximators. To this end, we use group theory to present a theoretical and practical framework allowing for (1) the identification of the system's morphological symmetry group $\G$, (2) data-augmentation of proprioceptive and exteroceptive measurements, and (3) the exploitation of data symmetries through the use of $\G$-equivariant/invariant neural networks, for which we present experimental results on synthetic and real-world applications, demonstrating how symmetry constraints lead to better sample efficiency and generalization while reducing the number of trainable parameters.
-
+abstract: We present a comprehensive study on discrete morphological symmetries of dynamical systems, which are commonly observed in biological and artificial locomoting systems, such as legged, swimming, and flying animals/robots/virtual characters. These symmetries arise from the presence of one or more planes/axis of symmetry in the system's morphology, resulting in harmonious duplication and distribution of body parts. Significantly, we characterize how morphological symmetries extend to symmetries in the system's dynamics, optimal control policies, and in all proprioceptive and exteroceptive measurements related to the system's dynamics evolution. In the context of data-driven methods, symmetry represents an inductive bias that justifies the use of data augmentation or symmetric function approximators. To tackle this, we present a theoretical and practical framework for identifying the system's morphological symmetry group $\G$ and characterizing the symmetries in proprioceptive and exteroceptive data measurements. We then exploit these symmetries using data augmentation and $\G$-equivariant neural networks. Our experiments on both synthetic and real-world applications provide empirical evidence of the advantageous outcomes resulting from the exploitation of these symmetries, including improved sample efficiency, enhanced generalization, and reduction of trainable parameters.
 # Summary. An optional shortened abstract.
 summary: Study of morphological symmetries of dynamical systems and their implications for learning algorithms.
 
-tags: [Robotics, Group Theory, Symmetries, Morphological Symmetries]
+tags: [Robotics, Group Theory, Symmetries, Morphological Symmetries, Locomotion]
 
 # Display this page in the Featured widget?
 featured: true
@@ -55,16 +54,16 @@ links:
 - icon:
   icon_pack: fab
   name: github
-  url: https://github.com/Danfoa/RobotEquivariantNN
+  url: https://github.com/Danfoa/MorphoSymm
 
 url_pdf: ''
 url_code: ''
 url_dataset: ''
 url_poster: ''
-url_project: 'https://github.com/Danfoa/RobotEquivariantNN'
+url_project: 'https://github.com/Danfoa/MorphoSymm'
 url_slides: ''
 url_source: ''
-url_video: ''
+url_video: 'https://youtu.be/Tadba3dq1ns'
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.#
@@ -88,23 +87,6 @@ url_video: ''
 #   Otherwise, set `slides: ""`.
 #slides: example
 ---
+For intuition before theory, see the following presentation video. For theory read the paper. For fun and experimentation see the MorphoSymm repository.
 
-<!-- {{% callout note %}}
-Click the *Cite* button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-{{% /callout %}}
-
-{{% callout note %}}
-Create your slides in Markdown - click the *Slides* button to check out the example.
-{{% /callout %}} -->
-
-### $\mathcal{G}=\mathcal{C}_2$: Reflection Symmetry
-|                                                              Solo-C2   	                                                               |                                                                Atlas   	                                                                |                                                                Bolt   	                                                                |                                                                A1 	                                                                |   
-|:--------------------------------------------------------------------------------------------------------------------------------------:|:---------------------------------------------------------------------------------------------------------------------------------------:|:--------------------------------------------------------------------------------------------------------------------------------------:|:----------------------------------------------------------------------------------------------------------------------------------:|
-| 	![solo-symmetries_anim_static](https://user-images.githubusercontent.com/8356912/203265566-ca07eb13-8b50-4ee1-ada7-6ebc985c4e30.gif)  | 	 ![atlas-symmetries_anim_static](https://user-images.githubusercontent.com/8356912/200183197-94242c57-bd9d-41cb-8a0b-509dceef5cb9.gif) |  ![bolt-symmetries_anim_static](https://user-images.githubusercontent.com/8356912/200183086-98d636d7-75b2-4744-b77f-99b3a1ec8e39.gif)  | ![a1-symmetries_anim_static](https://user-images.githubusercontent.com/8356912/203263932-1258a540-41d9-4b3d-9eb3-b67a840a7f5a.gif) | 	        
- |                                                             **Cassie**   	                                                             |                                                             **Baxter**   	                                                              |                                                               **HyQ**-C2  	                                                               |                                                                ---	                                                                |   
-| ![cassie-symmetries_anim_static](https://user-images.githubusercontent.com/8356912/203263954-331759e7-72da-4530-b5f1-a51c328b8ad6.gif) | ![baxter-symmetries_anim_static](https://user-images.githubusercontent.com/8356912/203263946-7252bcd3-e4e5-48a4-842e-906b50df9122.gif)  | ![hyq-c2-symmetries_anim_static](https://user-images.githubusercontent.com/8356912/203263960-ee553b56-f781-40ac-8daa-d7e1c59f10e7.gif) |                                                               ------                                                               |
-
-### $\mathcal{G}=\mathcal{K}_4$: Klein-Four Symmetry
-|                                                     Solo   	                                                      |                                                                HyQ   	                                                                |   
-|:-----------------------------------------------------------------------------------------------------------------:|:-------------------------------------------------------------------------------------------------------------------------------------:|
-| 	![Solo-K4](https://user-images.githubusercontent.com/8356912/191269534-af143f29-1f46-4009-858b-72a63b5c67ac.gif) | 	 ![hyq-symmetries_anim_static](https://user-images.githubusercontent.com/8356912/203263962-3ee004db-f2f9-468c-ba89-04f3cd316c0d.gif) |        
+{{< youtube qu4jIViRU1A >}}
